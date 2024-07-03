@@ -9,6 +9,7 @@ public class AlienWalletSystemApplication {
 	public static void main(String[] args) {
 		System.out.println("Hi");
 		System.out.println("third commit");
+		System.out.println("from github commit");
 		SpringApplication.run(AlienWalletSystemApplication.class, args);
 	}
 
