@@ -11,6 +11,7 @@ public class AlienWalletSystemApplication {
 		System.out.println("third commit");
 		System.out.println("from github commit");
 		System.out.println("fourth commit from local to github");
+		System.out.println("second commit from github to local");
 		SpringApplication.run(AlienWalletSystemApplication.class, args);
 	}
 
