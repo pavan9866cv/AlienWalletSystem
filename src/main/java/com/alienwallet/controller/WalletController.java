@@ -10,6 +10,7 @@ public class WalletController {
 
 	@GetMapping("/getWalletName")
 	public String getWalletName() {
+		System.out.println("entered into controller");
 		return "AlienWalletSystem";
 	}
 
