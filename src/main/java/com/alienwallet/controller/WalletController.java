@@ -12,6 +12,7 @@ public class WalletController {
 	public String getWalletName() {
 		System.out.println("entered into controller");
 		System.out.println("for master commit");
+		System.out.println("for feature1 ");
 		return "AlienWalletSystem";
 	}
 
